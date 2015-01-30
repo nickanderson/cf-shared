@@ -1,3 +1,6 @@
 [submodule "nickanderson/yum"]
 	path = nickanderson/yum
 	url = https://github.com/nickanderson/yum.git
+[submodule "nickanderson/CVE_2015_0235"]
+	path = nickanderson/CVE_2015_0235
+	url = https://github.com/nickanderson/CVE_2015_0235.git
