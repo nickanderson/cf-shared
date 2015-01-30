@@ -1,6 +1,3 @@
-[submodule "policy/manage_sysctl_conf_selective_present"]
-	path = policy/manage_sysctl_conf_selective_present
-	url = https://github.com/nickanderson/cfengine-manage_sysctl_conf_selective_present.git
 [submodule "nickanderson/yum"]
 	path = nickanderson/yum
 	url = https://github.com/nickanderson/yum.git
