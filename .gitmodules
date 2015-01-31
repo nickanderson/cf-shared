@@ -1,6 +1,9 @@
 [submodule "nickanderson/yum"]
 	path = nickanderson/yum
-	url = https://github.com/nickanderson/yum.git
+	url = https://github.com/nickanderson/cfengine-yum.git
 [submodule "nickanderson/CVE_2015_0235"]
 	path = nickanderson/CVE_2015_0235
-	url = https://github.com/nickanderson/CVE_2015_0235.git
+	url = https://github.com/nickanderson/cfengine-CVE_2015_0235.git
+[submodule "nickanderson/sysctl"]
+	path = nickanderson/sysctl
+	url = https://github.com/nickanderson/cfengine-sysctl
