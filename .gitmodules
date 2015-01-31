@@ -7,3 +7,6 @@
 [submodule "nickanderson/sysctl"]
 	path = nickanderson/sysctl
 	url = https://github.com/nickanderson/cfengine-sysctl
+[submodule "nickanderson/linux_kernel"]
+	path = nickanderson/linux_kernel
+	url = https://github.com/nickanderson/cfengine-linux_kernel.git
