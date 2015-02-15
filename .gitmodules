@@ -10,3 +10,6 @@
 [submodule "nickanderson/linux_kernel"]
 	path = nickanderson/linux_kernel
 	url = https://github.com/nickanderson/cfengine-linux_kernel.git
+[submodule "nickanderson/ntp"]
+	path = nickanderson/ntp
+	url = https://github.com/nickanderson/cfengine-ntp
